@@ -1,0 +1,46 @@
+.font {
+  font-family: sans-serif;
+}
+
+body {
+  font-family: sans-serif;
+}
+p{
+  text-align: justify;
+}
+
+li {
+  color: darkslategrey;
+}
+
+p {
+  line-height: 100%;
+}
+
+tr:hover {
+  background-color: lightblue;
+  color: black;
+}
+
+table {
+  border-collapse: collapse;
+
+
+}
+td{
+    padding: 15px;
+    border-bottom: 1px solid #ddd;
+
+}
+
+a:hover {
+  font-family: cursive;
+  color: black;
+}
+
+  /* background-color: darkred} */
+tr:nth-child(even) {background-color: aliceblue;
+}
+tr{
+  height: 20%;
+}
